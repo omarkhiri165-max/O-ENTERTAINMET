@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-public class PLAER : MonoBehaviour
+public class PLAYER : MonoBehaviour
 {
     // ... (نفس المتغيرات القديمة خليها كيف هي) ...
     [Header("Movement Settings")]
